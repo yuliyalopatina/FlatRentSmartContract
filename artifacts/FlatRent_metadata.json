@@ -1,0 +1,73 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "confirmRent",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "payRent",
+				"outputs": [],
+				"stateMutability": "payable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "provideFlat",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "terminateContract",
+				"outputs": [],
+				"stateMutability": "payable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Users/yuliyacogniteq/FlatRentSmartContract/FlatRent.sol": "FlatRent"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Users/yuliyacogniteq/FlatRentSmartContract/FlatRent.sol": {
+			"keccak256": "0x6b52e8bf7b881b0b060f04ee82e10a371e487fc412357d7693480c57f35970e7",
+			"urls": [
+				"bzz-raw://8cb56bed1aff14cf26b819f10fddbc9b02cda138a7c5cb0e7da560ea5cd4c8db",
+				"dweb:/ipfs/QmSBAs6gPfyDaaSfA6MUdV7LNYyg45hZctT94GteX28ojm"
+			]
+		}
+	},
+	"version": 1
+}
